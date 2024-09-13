@@ -1,0 +1,2 @@
+git config --global user.name insulation87
+git config --global user.email a090211322@gmail.com

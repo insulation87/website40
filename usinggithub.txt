@@ -5,3 +5,7 @@
 git config --global user.name insulation87
 git config --global user.email a090211322@gmail.com
 成功後點選最右邊原始控制檔 提交就可以將檔案同步到github
+20240927
+新增程式碼
+加入GO live
+新增css可以對文字改變字體顏色

@@ -59,7 +59,7 @@ header {
 }
 
 #left h2{
-    border: 2px solid red;
+    border: 2px solid gray;
     border-radius: 5px;
     background: linear-gradient(#ddd,#888,#333,#000);
 }

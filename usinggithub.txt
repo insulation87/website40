@@ -12,3 +12,5 @@ git config --global user.email a090211322@gmail.com
 20241004
 使用css對網頁做出調整
 background:linear-gradient可以產生漸層
+node.js
+npm install express

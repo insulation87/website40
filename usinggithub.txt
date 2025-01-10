@@ -2,8 +2,8 @@
 新增index.html 輸入html:5
 新增usinggithub.txt 用來作筆記
 打開終端機
-git config --global user.name insulation87
-git config --global user.email a090211322@gmail.com
+git config --global user.name "insulation87"
+git config --global user.email "a090211322@gmail.com"
 成功後點選最右邊原始控制檔 提交就可以將檔案同步到github
 20240927
 新增程式碼
